@@ -9,3 +9,9 @@
   justify-content: center;
   height: 90vh;
 }
+
+@media screen and (max-width: 768px) {
+  .cart-img {
+    width: 40%;
+  }
+}

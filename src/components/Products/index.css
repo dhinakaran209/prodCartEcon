@@ -9,3 +9,9 @@
   align-items: center;
   height: 90vh;
 }
+
+@media screen and (max-width: 768px) {
+  .product-img {
+    width: 50%;
+  }
+}
